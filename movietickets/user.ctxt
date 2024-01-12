@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=user
+comment1.params=name\ cnumber\ moviename\ timings\ category\ n
+comment1.target=user(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+numComments=2
